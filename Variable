@@ -1,0 +1,10 @@
+'Variavel de texto
+Dim texto1 as String  
+'Variavel de numero 
+dim 1 as Interger
+'Variavel de numero com casas decimais
+Dim 1.2 as Double
+'variavel de numero com casas decimais
+Dim 1.2000 as Long
+'Variavel do tipo Boolean (Verdadeiro ou Falso)
+Dim True as Boolean
